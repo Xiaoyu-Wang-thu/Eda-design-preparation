@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>EDA 设计相关工具</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>EDA 设计相关工具</p></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -33,7 +33,7 @@ EDA是电子设计自动化(Electronic Design Automation)的简称，是从计�
 
 * EDA 是集成电路产业链中的上游，贯穿于集成电路设计、制造、封测等环节，支撑数千亿美元集成电路产业、万亿美元电子信息产业和数十万亿美元的数字经济。
 * 全球 EDA 市场伴随集成电路产业发展。EDA 作为集成电路产业链中的上游，与下游景气度相关。根据 ESD Alliance 统计，2021 年全球 EDA 市场规模为 **132.75 亿美元**，同比增长 15.77%；2012-2021 年年均**复合增速为 8.19%**，与同期全球集成电路市场的 7.66% 年均复合增速相近。在近年来全球集成电路产业基本保持稳定向好的发展态势下，全球 EDA 市场规模呈加速增长趋势，2018-2021 年同比增速分别为 4.49%、 5.86%、11.62%、15.77%。
-* 全球EDA市场产品**构成相对稳定**。ESD Alliance将全球EDA市场按产品分为SIP、CAE、IC 物理设计和验证、PCB & MCM 和服务，2021 年市场份额分别为 38%、31%、19%、 9%和 3%。2017-2021 年间，全球 EDA 市场产品份额相对稳定，**SIP 份额略**呈上升趋势。<img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
+* 全球EDA市场产品**构成相对稳定**。ESD Alliance将全球EDA市场按产品分为SIP、CAE、IC 物理设计和验证、PCB & MCM 和服务，2021 年市场份额分别为 38%、31%、19%、 9%和 3%。2017-2021 年间，全球 EDA 市场产品份额相对稳定，**SIP 份额略**呈上升趋势。<img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
 ## 4. EDA行业竞争格局
 

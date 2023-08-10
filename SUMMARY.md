@@ -12,6 +12,7 @@
     * [华大九天](eda-she-ji/eda-she-ji/eda-she-ji-gong-si/hua-da-jiu-tian.md)
     * [杭州行芯科技](eda-she-ji/eda-she-ji/eda-she-ji-gong-si/hang-zhou-hang-xin-ke-ji.md)
 
-## 🚘 汽车自动化
+## 🚘 数字IC
 
-* [自动驾驶AI芯片](qi-che-zi-dong-hua/zi-dong-jia-shi-ai-xin-pian.md)
+* [自动驾驶AI芯片](shu-zi-ic/zi-dong-jia-shi-ai-xin-pian.md)
+* [SoC前端设计](shu-zi-ic/soc-qian-duan-she-ji.md)
