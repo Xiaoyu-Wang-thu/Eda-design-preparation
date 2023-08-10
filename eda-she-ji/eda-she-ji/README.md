@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>EDA 设计相关工具</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>EDA 设计相关工具</p></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div data-full-width="false">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -33,7 +33,7 @@ EDA是电子设计自动化(Electronic Design Automation)的简称，是从计�
 
 * EDA 是集成电路产业链中的上游，贯穿于集成电路设计、制造、封测等环节，支撑数千亿美元集成电路产业、万亿美元电子信息产业和数十万亿美元的数字经济。
 * 全球 EDA 市场伴随集成电路产业发展。EDA 作为集成电路产业链中的上游，与下游景气度相关。根据 ESD Alliance 统计，2021 年全球 EDA 市场规模为 **132.75 亿美元**，同比增长 15.77%；2012-2021 年年均**复合增速为 8.19%**，与同期全球集成电路市场的 7.66% 年均复合增速相近。在近年来全球集成电路产业基本保持稳定向好的发展态势下，全球 EDA 市场规模呈加速增长趋势，2018-2021 年同比增速分别为 4.49%、 5.86%、11.62%、15.77%。
-* 全球EDA市场产品**构成相对稳定**。ESD Alliance将全球EDA市场按产品分为SIP、CAE、IC 物理设计和验证、PCB & MCM 和服务，2021 年市场份额分别为 38%、31%、19%、 9%和 3%。2017-2021 年间，全球 EDA 市场产品份额相对稳定，**SIP 份额略**呈上升趋势。<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
+* 全球EDA市场产品**构成相对稳定**。ESD Alliance将全球EDA市场按产品分为SIP、CAE、IC 物理设计和验证、PCB & MCM 和服务，2021 年市场份额分别为 38%、31%、19%、 9%和 3%。2017-2021 年间，全球 EDA 市场产品份额相对稳定，**SIP 份额略**呈上升趋势。<img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 ## 4. EDA行业竞争格局
 
@@ -43,4 +43,9 @@ EDA是电子设计自动化(Electronic Design Automation)的简称，是从计�
 * **人才储备壁垒**：EDA 开发过程需要计算机、数学、物理、电子电路、工艺等多种学科和专业的高端人才，对综合技能要求很高，企业的人才储备决定其是否能够在行业中持续发展。行业头部公司均拥有经验丰富、实力雄厚的研 发队伍，其知名度、成熟培训体系等也能够持续吸引人才加入，研发人员规 模领先，形成了**人才壁垒**。2021 财年末，海外 EDA 巨头 Synopsys、Cadence 员工人数分别为 16361、9300，是支撑其在全球 EDA 市场获得较高市占率的重要因素之一。
 * **用户协同壁垒**：EDA 工具的技术开发和商业销售依托于**制造、设计、EDA 行业三方**所形成的生态圈，需要产业链上下游的全力支持。国际 EDA 领域的领先企业与全球领先的集成电路制造和设计企业具备长期合作基础，其 EDA 工具工艺库信息完善，**能够随先进工艺演进不断迭代**，进一步巩固了竞争优势。 EDA 行业下游用户一旦确定了 EDA 供应商，短时间在内部更换 EDA 工具软件的成本较大，因此集成电路制造与设计企业对合作 EDA 工具供应商粘性较强。
 * **资金规模壁垒**：为保持较高的行业竞争力，EDA 企业需要投入大量的**研发支出和并购支出**，因此形成了较高的资金规模壁垒。海外 EDA 巨头 Synopsys、 Cadence 持续加大研发投入，近十年研发费用分别累计为 627.41 亿元、508.92 亿元，平均研发费用率分别为 34.56%、38.90%
+
+### 4.2 行业高度集中
+
+* EDA三巨头：Synopsys，Cadence，Siemens EDA 具备对于半定制，全定制IC设计全流程的覆盖能力，市场占有率超过77%。
+* ANSYS和是德科技（Keysight Technologies）为代表的国际领先 EDA 公司，凭借其在细分领域取得的技术领先优势，在特定的设计 环节或特定领域形成了其垄断地位，前五大 EDA 公司累计占有了超 85%的全球 EDA 市场份额。
 
