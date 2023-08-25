@@ -16,4 +16,4 @@
 ## 🚘 数字IC
 
 * [自动驾驶AI芯片](shu-zi-ic/zi-dong-jia-shi-ai-xin-pian.md)
-* [SoC设计](shu-zi-ic/soc-she-ji.md)
+* [SoC设计](shu-zi-ic/soc-qian-duan-she-ji.md)
