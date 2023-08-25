@@ -6,6 +6,7 @@
 ## EDA设计
 
 * [EDA设计](eda-she-ji/eda-she-ji/README.md)
+  * [0825 EDA 招聘](eda-she-ji/eda-she-ji/0825-eda-zhao-pin.md)
   * [EDA设计公司](eda-she-ji/eda-she-ji/eda-she-ji-gong-si/README.md)
     * [Synopsys](eda-she-ji/eda-she-ji/eda-she-ji-gong-si/synopsys.md)
     * [Cadence](eda-she-ji/eda-she-ji/eda-she-ji-gong-si/cadence.md)
@@ -15,4 +16,4 @@
 ## 🚘 数字IC
 
 * [自动驾驶AI芯片](shu-zi-ic/zi-dong-jia-shi-ai-xin-pian.md)
-* [SoC前端设计](shu-zi-ic/soc-qian-duan-she-ji.md)
+* [SoC设计](shu-zi-ic/soc-she-ji.md)
